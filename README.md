@@ -1,7 +1,5 @@
 # EVR-Racing-Dashboard-Desktop-App
 
-# EVR Racing Dashboard (PyQt5, PySerial, PyQtGraph)
-
 This project provides a real-time monitoring dashboard for Electric Vehicle Racing (EVR) data, built using PyQt5 for the graphical user interface, PySerial for communication with a Vehicle Control Unit (VCU), and PyQtGraph for dynamic data visualization.
 
 ## Features
