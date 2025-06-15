@@ -1,1 +1,1 @@
-# EVR-Racing-Dashboard-Desktop-App-
+# EVR-Racing-Dashboard-Desktop-App
